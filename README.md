@@ -15,6 +15,9 @@ Each solution document should follow a consistent structure:
 ## Problem
 Describe the issue.
 
+## Specifications
+Show general specifications only.
+
 ## Error Message
 Paste the exact error message.
 
